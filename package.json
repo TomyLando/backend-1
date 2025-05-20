@@ -1,0 +1,13 @@
+{
+  "name": "websocket-handlebars-project",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "socket.io": "^4.7.2"
+  }
+}
